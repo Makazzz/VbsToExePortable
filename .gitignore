@@ -1,0 +1,12 @@
+# Ignore App folder
+VbsToExePortable/App/VbsToExe/Ps1_To_Exe.exe
+VbsToExePortable/App/VbsToExe/Ps1_To_Exe_(x64).exe
+
+# Ignore Data folder
+VbsToExePortable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini
