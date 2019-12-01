@@ -1,6 +1,6 @@
 # Ignore App folder
-VbsToExePortable/App/VbsToExe/Ps1_To_Exe.exe
-VbsToExePortable/App/VbsToExe/Ps1_To_Exe_(x64).exe
+VbsToExePortable/App/VbsToExe/Vbs_To_Exe.exe
+VbsToExePortable/App/VbsToExe/Vbs_To_Exe_(x64).exe
 
 # Ignore Data folder
 VbsToExePortable/Data
